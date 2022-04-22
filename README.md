@@ -1,3 +1,4 @@
+[![Build Status](https://devsl.visualstudio.com/node-express/_apis/build/status/Damdias.js-e2e-express-server?branchName=main)](https://devsl.visualstudio.com/node-express/_build/latest?definitionId=9&branchName=main)
 ---
 page_type: sample
 languages:
